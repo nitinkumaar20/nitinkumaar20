@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
   🚀 Turning ideas into interactive web experiences & intelligent apps.
